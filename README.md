@@ -7,6 +7,7 @@ This project delves into the analysis of unemployment trends across various regi
 Data Sources:
 
 • The primary datasets used for this analysis include Unemployment_in_India.csv and Unemployment_Rate_upto_11_2020.csv. These datasets cover various regions and time periods and were pre-processed to ensure data quality and consistency.
+
 Key Steps in the Analysis:
 
 1. Data Preprocessing:
@@ -32,16 +33,25 @@ o Analyzed regional disparities in labor participation and employment, highlight
 o Investigated temporal trends in unemployment rates, particularly during the COVID-19 period, which caused significant disruptions in many regions.
 
 Tools & Technologies:
+
 • Python (Pandas, Matplotlib, Seaborn)
+
 • Plotly for interactive visualizations
+
 • Data preprocessing and visualization techniques
+
 • Tableau
 
 Insights & Conclusions:
+
 • Regions such as Tripura and Haryana faced the highest average unemployment rates, indicating severe economic challenges.
+
 • Meghalaya and Assam exhibited lower average unemployment rates, suggesting better employment conditions.
+
 • The North region consistently showed higher employment levels, while the Northeast displayed high labor participation rates, reflecting diverse economic conditions across states.
 
 Future Work:
+
 • Expanding the analysis to include more recent data post-2020 to assess the recovery trends.
+
 • Integrating more economic indicators, such as GDP growth and sector-wise employment, to provide a comprehensive view of regional economic health.
